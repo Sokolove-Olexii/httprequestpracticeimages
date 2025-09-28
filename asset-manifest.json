@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/httprequestpracticeimages/static/css/main.37895540.css",
+    "main.js": "/httprequestpracticeimages/static/js/main.9a383789.js",
+    "index.html": "/httprequestpracticeimages/index.html",
+    "main.37895540.css.map": "/httprequestpracticeimages/static/css/main.37895540.css.map",
+    "main.9a383789.js.map": "/httprequestpracticeimages/static/js/main.9a383789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37895540.css",
+    "static/js/main.9a383789.js"
+  ]
+}
